@@ -1,4 +1,4 @@
-![Logo Datos Abiertos](https://github.com/mxabierto/playbook/assets/images/datos.gob.mx_logo.png)
+![Logo Datos Abiertos](http://mxabierto.github.io/playbook/assets/images/datos.gob.mx_logo.png)
 
 # {{ site.title }}
 
