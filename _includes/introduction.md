@@ -1,3 +1,5 @@
+![Logo Datos Abiertos](/assets/images/datos.gob.mx_logo.svg)
+
 # {{ site.title }}
 
 Los [datos abiertos](http://datos.gob.mx/acerca/) del gobierno son un activo público usable y reutilizable por cualquier sector, que contribuyen a:
