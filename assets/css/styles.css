@@ -429,9 +429,14 @@
   #techfar img {
     max-width: 100%; }
 
+  #page_model {
+    background: #eeeeee;
+    color: white; }
+    #page_model h1 {
+      color: #333333; }
+
   .model-table td {
-    padding: 5px;
-    border: 3px solid #474747; }
+    padding: 5px; }
     .model-table td h6 {
       margin: 0;
       font-size: 14px !important;
@@ -458,7 +463,7 @@
     color: #474747;
     background: #f3f3f3; }
   .model-table .content {
-    background: #f3f3f3;
+    background: white;
     font-size: 13px;
     line-height: 19px;
     color: #474747; } }
