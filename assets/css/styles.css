@@ -427,7 +427,41 @@
   #techfar h2, #techfar h4 {
     margin-top: 20px; }
   #techfar img {
-    max-width: 100%; } }
+    max-width: 100%; }
+
+  .model-table td {
+    padding: 5px;
+    border: 3px solid #474747; }
+    .model-table td h6 {
+      margin: 0;
+      font-size: 14px !important;
+      line-height: 20px !important; }
+    .model-table td p {
+      margin: 0 !important;
+      font-size: 13px !important;
+      line-height: 19px !important; }
+  .model-table .heading {
+    background: #00cc99;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    vertical-align: middle; }
+  .model-table .subheading {
+    background: #4d4d4d;
+    font-size: 12px;
+    line-height: 16px; }
+  .model-table .content-heading {
+    vertical-align: top;
+    font-size: 14px;
+    line-height: 20px;
+    color: #474747;
+    background: #f3f3f3; }
+  .model-table .content {
+    background: #f3f3f3;
+    font-size: 13px;
+    line-height: 19px;
+    color: #474747; } }
 @media print {
   body {
     background: white;
