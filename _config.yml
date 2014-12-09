@@ -1,8 +1,8 @@
 permalink: pretty
 markdown: rdiscount
 highlighter: pygments
-url: http://mxabierto.github.io/playbook
-baseurl: /playbook
+url: http://mxabierto.github.io/guia
+baseurl: /guia
 title: Guía de Datos Abiertos para México
 
 collections:
