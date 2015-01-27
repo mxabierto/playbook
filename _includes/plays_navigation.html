@@ -1,0 +1,15 @@
+<div id="navigation_bar">
+   <div class="outer_container">
+    <div class="inner_container">
+      <a href="#introduction"><h4>{{ site.title }}</h4></a>
+      <ul class="nav">
+        {% for play in site.plays %}
+          <li class="play_square"><a href="#play{{ play.id }}" title="View Play {{ play.id }}: {{ play.title }}">{{ play.id }}</a></li>
+        {% endfor %}
+      </ul>
+      <div id="menu_icon">
+        <a href="#plays_index_anchor" title="Return to Index"></a>
+      </div>
+    </div>
+  </div>
+</div>
