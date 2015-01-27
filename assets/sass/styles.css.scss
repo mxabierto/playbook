@@ -480,6 +480,13 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       // border-bottom: 1px solid $open_green;
       text-decoration: underline;
       display: inline-block;
+      &.more {
+        text-transform: uppercase;
+        text-decoration: none;
+        color: $light_black;
+        border: 1px solid $light_black;
+        padding: 10px 20px;
+      }
     }
 
     a:hover {

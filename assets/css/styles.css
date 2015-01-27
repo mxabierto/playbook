@@ -387,6 +387,12 @@
     color: #663399;
     text-decoration: underline;
     display: inline-block; }
+    #plays a.more, #techfar a.more {
+      text-transform: uppercase;
+      text-decoration: none;
+      color: #474747;
+      border: 1px solid #474747;
+      padding: 10px 20px; }
   #plays a:hover, #techfar a:hover {
     color: #00cc99; } }
 @media screen and (min-width: 0px) and (max-width: 640px) {
