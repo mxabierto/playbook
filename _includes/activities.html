@@ -1,7 +1,7 @@
 <div id="activities" class="outer_container">
   {% for activity in activities %}
     <div class="inner_container">
-      <a class="anchor_offset" id="activity{{ activity.id }}"></a>
+      <a class="anchor_offset" id="actividad-{{ activity.id }}"></a>
       <h5>ACTIVIDAD {{ activity.id | upcase }}</h5>
       <h2>{{ activity.title }}</h2>
 
