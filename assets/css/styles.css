@@ -161,9 +161,12 @@
     padding-bottom: 60px; }
     #introduction a {
       text-decoration: underline; }
-    #introduction a:hover {
-      background: white;
-      color: #474747; }
+      #introduction a:hover {
+        background: white;
+        color: #474747; }
+      #introduction a:hover.wrapping_an_image {
+        background: inherit;
+        text-decoration: none; }
     #introduction .button a {
       text-decoration: none; }
     #introduction p {

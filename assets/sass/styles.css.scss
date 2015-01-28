@@ -177,11 +177,14 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
     a {
       text-decoration: underline;
-    }
-
-    a:hover {
-      background: $white;
-      color: $light_black;
+      &:hover {
+        background: $white;
+        color: $light_black;
+      }
+      &:hover.wrapping_an_image {
+        background: inherit;
+        text-decoration: none;
+      }
     }
 
     .button a {
