@@ -464,7 +464,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
 
     ol {
-      list-style-image: url("../images/bullet-sq.svg");
+      list-style-type: lower-alpha;
       margin-top: 0px;
     }
 

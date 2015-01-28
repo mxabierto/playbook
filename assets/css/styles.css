@@ -378,7 +378,7 @@
     #plays ol:last-child, #plays ul:last-child, #techfar ol:last-child, #techfar ul:last-child {
       margin-right: 0; }
   #plays ol, #techfar ol {
-    list-style-image: url("../images/bullet-sq.svg");
+    list-style-type: lower-alpha;
     margin-top: 0px; }
   #plays li, #techfar li {
     font-size: 15px;
