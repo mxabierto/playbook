@@ -176,10 +176,9 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     padding-bottom: 60px;
 
     a {
-      text-decoration: underline;
+      color: $open_green;
       &:hover {
-        background: $white;
-        color: $light_black;
+        text-decoration: underline;
       }
       &:hover.wrapping_an_image {
         background: inherit;
@@ -188,7 +187,12 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
 
     .button a {
+      border-color: $open_green;
+      color: $open_green;
       text-decoration: none;
+      &:hover {
+        color: white;
+      }
     }
 
     p {
@@ -355,7 +359,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       font-weight: normal;
       margin-bottom: 38px;
     }
-    
+
     .columns {
       -moz-column-count: 2;
       -moz-column-gap: 20px;
@@ -382,21 +386,21 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
         color: $black;
       }
     }
-    
+
     ol, li {
       color: $white;
       font-size: 20px;
       font-weight: lighter;
       margin-top: 0;
     }
-    
+
     .button {
       a {
         color: white;
-      }
-      a:hover {
-        color: $open_green;
-        background: $white;
+        &:hover {
+          color: $light_black;
+          background: $white;
+        }
       }
     }
 
@@ -435,7 +439,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
   }
 
-  #plays, #techfar {
+  #plays, #activities, #techfar {
 
     h2, h4 {
       @include span-columns(8);
@@ -479,16 +483,21 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
 
     a {
-      color: $graph_purple;
-      // border-bottom: 1px solid $open_green;
-      text-decoration: underline;
+      color: $open_green;
+      &:hover {
+        text-decoration: underline;
+      }
       display: inline-block;
       &.more {
         text-transform: uppercase;
         text-decoration: none;
-        color: $light_black;
-        border: 1px solid $light_black;
+        color: $open_green;
+        border: 1px solid $open_green;
         padding: 10px 20px;
+        &:hover {
+          background-color: $open_green;
+          color: $light_black;
+        }
       }
     }
 
