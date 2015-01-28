@@ -1,0 +1,15 @@
+<div id="navigation_bar">
+   <div class="outer_container">
+    <div class="inner_container">
+      <a href="#introduction"><h4>{{ site.title }}</h4></a>
+      <ul class="nav">
+        {% for activity in activities %}
+          <li class="play_square"><a href="#activity{{ activity.id }}" title="View Activity {{ activity.id }}: {{ activity.title }}">{{ activity.id }}</a></li>
+        {% endfor %}
+      </ul>
+      <div id="menu_icon">
+        <a href="#activities_index_anchor" title="Return to Index"></a>
+      </div>
+    </div>
+  </div>
+</div>
