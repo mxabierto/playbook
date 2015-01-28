@@ -1,7 +1,12 @@
 <div id="navigation_bar">
    <div class="outer_container">
     <div class="inner_container">
-      <a href="#introduction"><h4>{{ site.title }}</h4></a>
+      <a href="{{site.baseurl}}/">
+        <h4>{{site.title}}</h4>
+      </a>/
+      <a href="#introduction">
+        <h4>{{page.title}}</h4>
+      </a>
       <ul class="nav">
         {% for activity in activities %}
           <li class="play_square"><a href="#activity{{ activity.id }}" title="View Activity {{ activity.id }}: {{ activity.title }}">{{ activity.id }}</a></li>
