@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: play
 permalink: /paso-3/
 play: 3
 title: "Paso 3: Perfecciona"

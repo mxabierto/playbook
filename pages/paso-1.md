@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: play
 permalink: /paso-1/
 play: 1
 title: "Paso 1: Planea"
