@@ -6,3 +6,21 @@ title: "Paso 3: Perfecciona"
 subtitle: Avanzar en la madurez de los datos abiertos
 ---
 
+**Involucrados:** Enlace de Datos Abiertos; Administrador de Datos Abiertos; áreas generadoras o administradoras de datos; enlace de transparencia; Organos Internos de Control.
+
+**Tiempo máximo para el cumplimiento:** 180 días
+
+**Normatividad a la que  se da cumplimiento:** Decreto de Datos Abiertos
+
+El cumplimiento con los pasos, acciones y niveles de esta guía será reflejado en un tablero público de mejora continua, que permitirá saber cuáles son los conjuntos de datos más descargados, fechas y horas pico de descarga y toda la información relevante para mejorar tu [Plan de Apertura Institucional](http://mxabierto.github.io/guia/#play5). 
+
+También podrás ver y entender el avance de las demás instituciones, lo que te permitirá comparar tu desempeño con el resto de la APF y mejorarlo. De igual manera, la retroalimentación de los usuarios, el Escuadrón de Datos Abiertos, la Unidad de Gobierno Digital y la Coordinación de Estrategia Digital Nacional deberán incluirse en el seguimiento y actualización de los Planes de Acción.
+
+El cumplimiento con los requerimientos de esta guía será verificado por las unidades administrativas de la Subsecretaría de Control y Auditoría de la Gestión Pública de la Secretaría de la Función Pública, en colaboración con los Órganos Internos de Control (OIC) del ámbito federal.
+
+De manera anual, la Coordinación de Estrategia Digital Nacional enviará un reporte con los datos y avances más destacados en materia de Datos Abiertos al titular de la dependencia o entidad.
+
+### _Actividades a realizar_
+
+1. Revisar el tablero de control en [ADELA](http://adela.datos.gob.mx/).
+2. Atender a las recomendaciones realizadas por el Órgano Interno de Control, usuarios, Coordinación de Estrategia  Digital Nacional.
