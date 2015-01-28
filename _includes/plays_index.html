@@ -1,0 +1,19 @@
+<div id="plays_index">
+  <div class="outer_container">
+    <div class="inner_container">
+      <a class="anchor_offset" id="plays_index_anchor"></a>
+      <h3>PASOS PARA ABRIR DATOS</h3>
+      <div class="columns">
+        <ol>
+        {% for play in site.plays %}
+          <li><a href="#paso-{{ play.id }}" title="View Play {{ play.id }}">{{ play.title }}</a></li>
+        {% endfor %}
+        </ol>
+      </div>
+      <div class="button">
+        <a href="#paso-1" title="View the In Detail">VE EN DETALLE</a>
+      </div>
+    </div>
+  </div>
+</div>
+

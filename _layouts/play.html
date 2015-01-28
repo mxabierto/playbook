@@ -1,5 +1,3 @@
----
----
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,13 +12,15 @@
 
 <body>
 
-{% include plays_navigation.html %}
+{% assign activities = site.activities | where: 'play', page.play %}
 
-{% include plays_introduction.html %}
+{% include activities_navigation.html %}
 
-{% include plays_index.html %}
+{% include activities_introduction.html %}
 
-{% include plays.html %}
+{% include activities_index.html %}
+
+{% include activities.html %}
 
 <script src='{{site.baseurl}}/assets/js/jquery-1.11.1.min.js'></script>
 <script src='{{site.baseurl}}/assets/js/scrollspy.js'></script>

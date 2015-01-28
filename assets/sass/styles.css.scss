@@ -48,7 +48,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     text-decoration: underline;
   }
 
-  ol, ul {
+  ol {
     list-style-type: decimal;
     list-style-position: inside;
     li {
@@ -170,18 +170,21 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
 
-  #introduction {
+  .introduction {
     background: $light_black;
     color: $white;
     padding-bottom: 60px;
 
     a {
       text-decoration: underline;
-    }
-
-    a:hover {
-      background: $white;
-      color: $light_black;
+      &:hover {
+        background: $white;
+        color: $light_black;
+      }
+      &:hover.wrapping_an_image {
+        background: inherit;
+        text-decoration: none;
+      }
     }
 
     .button a {
@@ -340,7 +343,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
   }
 
-    #plays_index {
+  #plays_index, #activities_index {
     background: $open_green;
     color: $black;
     padding-bottom: 60px;
@@ -480,6 +483,13 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       // border-bottom: 1px solid $open_green;
       text-decoration: underline;
       display: inline-block;
+      &.more {
+        text-transform: uppercase;
+        text-decoration: none;
+        color: $light_black;
+        border: 1px solid $light_black;
+        padding: 10px 20px;
+      }
     }
 
     a:hover {
@@ -597,7 +607,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     margin-right: 16.5%
   }
 
-  #plays_index {
+  #plays_index, #activities_index {
     ol {
       list-style-type: decimal;
     }

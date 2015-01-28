@@ -1,0 +1,30 @@
+<div id="intro" class="introduction">
+  <div class="outer_container">
+    <div class="inner_container">
+      <p>
+        <a class="wrapping_an_image" href="{{site.baseurl}}/">
+          <img src="{{site.baseurl}}/assets/images/datos.gob.mx_logo.png" alt="Logo de Datos Abiertos" />
+        </a>
+      </p>
+      <h1>{{site.title}}</h1>
+      <h3>{{page.title}}</h3>
+      <h3>{{page.subtitle}}</h3>
+
+      <p>{{content}}</p>
+
+      {% if activities.size > 0 %}
+      <div class="button">
+        <a href="#activities_index_anchor" title="View the Activities">VE LAS
+          ACTIVIDADES</a>
+      </div>
+      {% endif %}
+
+      <div class="button">
+        <a href="{{site.baseurl}}/"
+          title="Regresar a la página principal">REGRESA A LA PÁGINA
+       INICIAL</a>
+      </div>
+    </div>
+  </div>
+</div>
+
