@@ -343,7 +343,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
   }
 
-    #plays_index {
+  #plays_index, #activities_index {
     background: $open_green;
     color: $black;
     padding-bottom: 60px;
@@ -607,7 +607,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     margin-right: 16.5%
   }
 
-  #plays_index {
+  #plays_index, #activities_index {
     ol {
       list-style-type: decimal;
     }

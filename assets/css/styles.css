@@ -282,55 +282,55 @@
       display: block; } }
 
 @media screen {
-  #plays_index {
+  #plays_index, #activities_index {
     background: #00cc99;
     color: #333333;
     padding-bottom: 60px; }
-    #plays_index h3 {
+    #plays_index h3, #activities_index h3 {
       color: white;
       font-size: 23px;
       font-weight: normal;
       margin-bottom: 38px; }
-    #plays_index .columns {
+    #plays_index .columns, #activities_index .columns {
       -moz-column-count: 2;
       -moz-column-gap: 20px;
       -webkit-column-count: 2;
       -webkit-column-gap: 20px;
       column-count: 2;
       column-gap: 20px; }
-    #plays_index ol {
+    #plays_index ol, #activities_index ol {
       list-style-position: inside;
       padding-left: 0px;
       margin-top: 0px; }
-      #plays_index ol a {
+      #plays_index ol a, #activities_index ol a {
         vertical-align: top;
         color: white;
         margin-top: 0;
         display: inline-block;
         width: 85%; }
-      #plays_index ol a:hover {
+      #plays_index ol a:hover, #activities_index ol a:hover {
         color: #333333; }
-    #plays_index ol, #plays_index li {
+    #plays_index ol, #plays_index li, #activities_index ol, #activities_index li {
       color: white;
       font-size: 20px;
       font-weight: lighter;
       margin-top: 0; }
-    #plays_index .button a {
+    #plays_index .button a, #activities_index .button a {
       color: white; }
-    #plays_index .button a:hover {
+    #plays_index .button a:hover, #activities_index .button a:hover {
       color: #00cc99;
       background: white; } }
   @media screen and (min-width: 0px) and (max-width: 640px) {
-    #plays_index {
+    #plays_index, #activities_index {
       padding-bottom: 20px; }
-      #plays_index h3 {
+      #plays_index h3, #activities_index h3 {
         font-size: 18px;
         margin-bottom: 20px; }
-      #plays_index ol, #plays_index li {
+      #plays_index ol, #plays_index li, #activities_index ol, #activities_index li {
         font-size: 16px;
         line-height: 24px; } }
   @media screen and (min-width: 641px) and (max-width: 980px) {
-    #plays_index .columns {
+    #plays_index .columns, #activities_index .columns {
       -moz-column-count: 1;
       -moz-column-gap: 0px;
       -webkit-column-count: 1;
@@ -338,7 +338,7 @@
       column-count: 1;
       column-gap: 00px; } }
   @media screen and (min-width: 0px) and (max-width: 640px) {
-    #plays_index .columns {
+    #plays_index .columns, #activities_index .columns {
       -moz-column-count: 1;
       -moz-column-gap: 0px;
       -webkit-column-count: 1;
@@ -486,9 +486,9 @@
     margin-left: 16.5%;
     margin-right: 16.5%; }
 
-  #plays_index ol {
+  #plays_index ol, #activities_index ol {
     list-style-type: decimal; }
-  #plays_index a {
+  #plays_index a, #activities_index a {
     text-decoration: none; }
 
   #navigation_bar {
