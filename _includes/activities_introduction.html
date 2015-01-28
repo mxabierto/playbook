@@ -11,6 +11,12 @@
 
       <p>{{content}}</p>
 
+      <div class="button">
+        <a href="{{site.baseurl}}/"
+          title="Regresar a la página principal">REGRESA A LA PÁGINA
+       INICIAL</a>
+      </div>
+
       {% if activities.size > 0 %}
       <div class="button">
         <a href="#activities_index_anchor" title="View the Activities">VE LAS
@@ -18,11 +24,13 @@
       </div>
       {% endif %}
 
+      {% if page.play < site.plays.size %}
       <div class="button">
-        <a href="{{site.baseurl}}/"
-          title="Regresar a la página principal">REGRESA A LA PÁGINA
-       INICIAL</a>
+        <a href="{{site.baseurl}}/paso-{{ page.play | plus:1 }}"
+          title="Ir a siguiente paso">VE AL SIGUIENTE PASO</a>
       </div>
+      {% endif %}
+
     </div>
   </div>
 </div>
