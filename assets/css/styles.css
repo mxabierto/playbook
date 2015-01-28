@@ -28,10 +28,10 @@
   a:hover {
     text-decoration: underline; }
 
-  ol, ul {
+  ol {
     list-style-type: decimal;
     list-style-position: inside; }
-    ol li, ul li {
+    ol li {
       margin: 1em 0;
       color: #663399; }
 
