@@ -13,20 +13,21 @@ Al ser publicados como [Datos Abiertos](http://datos.gob.mx/acerca/), estos dato
 
 Esta Guía de Implementación está dirigida a los funcionarios responsables de coordinar la implementación de la Política de Datos Abiertos, instaurada mediante el Decreto que Establece la Regulación en Materia de Datos Abiertos.
 
-Además, permitirá cumplir con la normatividad vigente ligada a la Política de Datos Abiertos como: 
+Además, la Guía permitirá cumplir con la normatividad vigente ligada a la Política de Datos Abiertos como: 
 
-* El [Índice de Datos Abiertos](http://www.funcionpublica.gob.mx/web/doctos/ua/ssfp/uegdg/pgcm/material/documentos/ti_3_pgcm_bases_lineam_datosabiertos.pdf) establecido por el Programa Para un Gobierno Cercano y Moderno (el cumplimiento mínimo con el Índice de Datos Abiertos del PGCyM se dará en el Paso 2-b del nivel Básico); y
+* El [Índice de Datos Abiertos](http://www.funcionpublica.gob.mx/web/doctos/ua/ssfp/uegdg/pgcm/material/documentos/ti_3_pgcm_bases_lineam_datosabiertos.pdf), establecido por el Programa Para un Gobierno Cercano y Moderno (el cumplimiento mínimo con el Índice de Datos Abiertos del PGCyM se dará en el Paso 2-b del nivel Básico); y
 * [La Norma Técnica para el acceso y publicación de Datos Abiertos de la Información Estadística y Geográfica de interés nacional](http://www.dof.gob.mx/nota_detalle.php?codigo=5374183&fecha=04/12/2014) (para aquellas dependencias y entidades responsables de publicar este tipo de información).
+
 
 ### Estructura de la Guía
 
-Esta Guía contiene 4 pasos (_Planea, Publica, Perfecciona y Promueve_) y tres niveles de avance para cada paso (_Básico, Intermedio y Avanzado_). El objetivo es que los responsables sepan qué acciones llevar a cabo en cada paso, y cuenten con herramientas de apoyo para convertir a su institución en líder de Datos Abiertos.
+Esta Guía contiene 4 pasos (_Planea, Publica, Perfecciona y Promueve_) y tres niveles de avance para cada paso (_Básico, Intermedio y Avanzado_). El objetivo es que los responsables cuenten con herramientas y lineamientos para convertir a su institución en líder de Datos Abiertos.
 
 Dado que las instituciones se encontrarán en diversos estados de avance, se recomienda revisar la totalidad de la Guía y sus tres niveles antes de comenzar a cumplir con los requerimientos.
 
 El nivel Básico dará cumplimiento mínimo a las disposiciones de la Política de Datos Abiertos, por lo que todas las instituciones de la APF deberán cumplir con este nivel de manera obligatoria. 
 
-Los avances se darán a conocer al titular de la dependendencia o entidad de manera anual. Además, el cumplimiento se verá reflejado en un tablero de mejora continua, que dará a conocer el nivel y avance de cada una de las acciones de esta guía. 
+Los avances se darán a conocer al titular de la dependendencia o entidad de manera anual. Además, el cumplimiento se verá reflejado en un tablero público de mejora continua, que dará a conocer el nivel y avance de cada una de las acciones de esta guía. 
 
 Aquellas instituciones que presenten mayor nivel de avance tendrán la oportunidad de presentar sus acciones e impacto en los mecanismos institucionales de Datos Abiertos, así como de incrementar el potencial de impacto público de sus datos.
 
