@@ -7,9 +7,9 @@ subtitle: Desarrollar y publicar el Plan de Apertura institucional
 published: true
 ---
 
-La Coordinación de Estrategia Digital Nacional dará a conocer, anualmente, las dependencias y entidades que estarán obligadas a cumplir con la Política de Datos Abiertos. Estas instituciones deberán desarrollar un Plan de Apertura Institucional mediante esta Guía.
+La Coordinación de Estrategia Digital Nacional dará a conocer, anualmente, las dependencias y entidades que estarán obligadas a cumplir con la Política de Datos Abiertos.
 
-**Durante 2015, de acuerdo al Calendario de Actividades, todas las Secretarías de Estado, las entidades pertenecientes al gabinete ampliado, y aquellas que sean determinadas como prioritarias por la Coordinación de Estrategia Digital Nacional, deberán publicar su Plan de Apertura Institucional** a más tardar 60 días naturales después de la publicación de esta Guía.
+**En 2015, de acuerdo al Calendario de Actividades, todas las Secretarías de Estado, las entidades pertenecientes al gabinete ampliado, y aquellas que sean determinadas como prioritarias por la Coordinación de Estrategia Digital Nacional, deberán publicar su Plan de Apertura Institucional** a más tardar 60 días naturales después de la publicación de esta Guía.
 
 El Plan de Apertura Institucional, está conformado por tres actividades:
 
