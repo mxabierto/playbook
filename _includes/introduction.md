@@ -11,7 +11,7 @@ Al ser publicados como [Datos Abiertos](http://datos.gob.mx/acerca/), estos dato
 3. Fomentar la colaboración ciudadana
 4. Detonar una mayor eficiencia gubernamental y mejora de los servicios públicos, en apoyo a los objetivos de desarrollo, buena gobernanza y generación de conocimiento.
 
-Esta Guía de Implementación está dirigida a los funcionarios responsables de coordinar la implementación de la Política de Datos Abiertos, instaurada mediante el Decreto que Establece la Regulación en Materia de Datos Abiertos.
+Esta Guía de Implementación está dirigida a los funcionarios responsables de coordinar la implementación de la Política de Datos Abiertos, instaurada mediante el [Decreto que Establece la Regulación en Materia de Datos Abiertos](http://www.dof.gob.mx/nota_detalle.php?codigo=5382838&fecha=20/02/2015).
 
 Además, la Guía permitirá cumplir con la normatividad vigente ligada a la Política de Datos Abiertos como: 
 
@@ -20,12 +20,11 @@ Además, la Guía permitirá cumplir con la normatividad vigente ligada a la Pol
 
 
 ### Estructura de la Guía
+Esta Guía contiene 4 pasos (_Planea, Publica, Perfecciona y Promueve_) y contendrá dos niveles de avance para cada paso (_Básico y Avanzado_). El objetivo es que los responsables cuenten con herramientas y lineamientos para convertir a su institución en líder de Datos Abiertos.
 
-Esta Guía contiene 4 pasos (_Planea, Publica, Perfecciona y Promueve_) y tres niveles de avance para cada paso (_Básico, Intermedio y Avanzado_). El objetivo es que los responsables cuenten con herramientas y lineamientos para convertir a su institución en líder de Datos Abiertos.
+Dado que las instituciones se encontrarán en diversos estados de avance, se recomienda revisar la totalidad de la Guía antes de comenzar a cumplir con los requerimientos.
 
-Dado que las instituciones se encontrarán en diversos estados de avance, se recomienda revisar la totalidad de la Guía y sus tres niveles antes de comenzar a cumplir con los requerimientos.
-
-El nivel Básico dará cumplimiento mínimo a las disposiciones de la Política de Datos Abiertos, por lo que todas las instituciones de la APF deberán cumplir con este nivel de manera obligatoria. 
+**En esta versión del documento se encontrará el nivel Básico**, con el cual las instituciones darán cumplimiento a las disposiciones de la Política de Datos Abiertos.
 
 Los avances se darán a conocer al titular de la dependendencia o entidad de manera anual. Además, el cumplimiento se verá reflejado en un tablero público de mejora continua, que dará a conocer el nivel y avance de cada una de las acciones de esta guía. 
 
