@@ -2,16 +2,14 @@
   <div class="outer_container">
     <div class="inner_container">
       <a class="anchor_offset" id="plays_index_anchor"></a>
-      <h3>PASOS PARA ABRIR DATOS</h3>
+      <h3>FORMATOS Y PLANTILLAS</h3>
       <div class="columns">
         <ol>
-        {% for play in site.plays %}
-          <li><a href="paso-{{ play.id }}" title="View Play {{ play.id }}">{{ play.title }}</a></li>
-        {% endfor %}
+          <li><a href="{{site.baseurl}}/assets/Oficio Designacion Enlace y Administrador.docx">Oficio Designación Enlace y Administrador</a></li>
+          <li><a href="{{site.baseurl}}/assets/Inventario General de Datos.csv">Inventario General de Datos</a></li>
+          <li><a href="{{site.baseurl}}/assets/Plan de Apertura.csv">Plan de Apertura</a></li>
+          <li><a href="{{site.baseurl}}/assets/Ficha Tecnica Catalogo dgm.pdf">Ficha técnica sobre el formato de catálogo de datos</a></li>
         </ol>
-      </div>
-      <div class="button">
-        <a href="paso-1" title="View the In Detail">VE EN DETALLE</a>
       </div>
     </div>
   </div>
