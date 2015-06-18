@@ -2,34 +2,11 @@
 
 # {{ site.title }}
 
-Todos los datos de carácter público que genera o administra el gobierno son activos de los mexicanos que deben poder ser utilizados de manera accesible y sin restricciones.
+El día de hoy se publicó, en el Diario Oficial de la Federación, la Guía de Implementación de la Política de Datos Abiertos, que establece los pasos, acciones y tiempos de cumplimiento con las disposiciones de datos abiertos en la Administración Pública Federal.
 
-Al ser publicados como [Datos Abiertos](http://datos.gob.mx/acerca/), estos datos incrementan su potencial de uso, reutilización y redistribución, para:
-
-1. Impulsar el crecimiento económico, fortalecer la competitividad y promover la innovación.
-2. Incrementar la transparencia, rendición de cuentas y lucha contra la corrupción
-3. Fomentar la colaboración ciudadana
-4. Detonar una mayor eficiencia gubernamental y mejora de los servicios públicos, en apoyo a los objetivos de desarrollo, buena gobernanza y generación de conocimiento.
-
-Esta Guía de Implementación está dirigida a los funcionarios responsables de coordinar la implementación de la Política de Datos Abiertos, instaurada mediante el [Decreto que Establece la Regulación en Materia de Datos Abiertos](http://www.dof.gob.mx/nota_detalle.php?codigo=5382838&fecha=20/02/2015).
-
-Además, la Guía permitirá cumplir con la normatividad vigente ligada a la Política de Datos Abiertos como: 
-
-* El [Índice de Datos Abiertos](http://www.funcionpublica.gob.mx/web/doctos/ua/ssfp/uegdg/pgcm/material/documentos/ti_3_pgcm_bases_lineam_datosabiertos.pdf), establecido por el Programa Para un Gobierno Cercano y Moderno (el cumplimiento mínimo con el Índice de Datos Abiertos del PGCyM se dará en el Paso 2-b del nivel Básico); y
-* [La Norma Técnica para el acceso y publicación de Datos Abiertos de la Información Estadística y Geográfica de interés nacional](http://www.dof.gob.mx/nota_detalle.php?codigo=5374183&fecha=04/12/2014) (para aquellas dependencias y entidades responsables de publicar este tipo de información).
+El texto íntegro de la Guía lo puedes encontrar [aquí](http://www.google.com/url?q=http%3A%2F%2Fwww.dof.gob.mx%2Fnota_detalle.php%3Fcodigo%3D5397117%26fecha%3D18%2F06%2F2015&sa=D&sntz=1&usg=AFQjCNG66tUygVQMxUsi_y119JQrTa9Vpw).
 
 
-### Estructura de la Guía
-Esta Guía contiene 4 pasos (_Planea, Publica, Perfecciona y Promueve_) y contendrá dos niveles de avance para cada paso (_Básico y Avanzado_). El objetivo es que los responsables cuenten con herramientas y lineamientos para convertir a su institución en líder de Datos Abiertos.
+Esta Guía de Implementación entrará en vigor a partir del **viernes 19 de junio**. Por lo que **a partir de esta fecha, aquí podrás encontrar Herramientas, plantillas, estándares, así como la normatividad relacionada con la presente Guía y más recursos para apoyar y facilitar el cumplimiento de esta Guía.**
 
-Dado que las instituciones se encontrarán en diversos estados de avance, se recomienda revisar la totalidad de la Guía antes de comenzar a cumplir con los requerimientos.
-
-**En esta versión del documento se encontrará el nivel Básico**, con el cual las instituciones darán cumplimiento a las disposiciones de la Política de Datos Abiertos.
-
-Los avances se darán a conocer al titular de la dependendencia o entidad de manera anual. Además, el cumplimiento se verá reflejado en un tablero público de mejora continua, que dará a conocer el nivel y avance de cada una de las acciones de esta guía. 
-
-Aquellas instituciones que presenten mayor nivel de avance tendrán la oportunidad de presentar sus acciones e impacto en los mecanismos institucionales de Datos Abiertos, así como de incrementar el potencial de impacto público de sus datos.
-
-Este documento será expandido constantemente con recursos, materiales y herramientas. 
-
-
+Espera más próximamente.
